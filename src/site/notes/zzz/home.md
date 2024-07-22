@@ -15,4 +15,5 @@
 - 中文名试试中文名试试
 - 123455
 - 文件路径变化会影响
+- 而且是基于根目录的
 - [Deploys | nyhdb | Netlify](https://app.netlify.com/sites/nyhdb/deploys)
