@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/zh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 - 中文名试试

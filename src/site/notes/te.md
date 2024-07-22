@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/te/","noteIcon":""}
+{"dg-publish":true,"permalink":"/te/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 - sdfa2
